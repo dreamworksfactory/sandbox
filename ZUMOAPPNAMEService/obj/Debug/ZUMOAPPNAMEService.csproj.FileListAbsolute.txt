@@ -110,8 +110,8 @@
 /Users/dreamworksfactory/Documents/GitHub/azure-mobile-apps-quickstarts/backend/dotnet/Quickstart/ZUMOAPPNAMEService/bin/ko/System.Spatial.resources.dll
 /Users/dreamworksfactory/Documents/GitHub/azure-mobile-apps-quickstarts/backend/dotnet/Quickstart/ZUMOAPPNAMEService/bin/fr/System.Spatial.resources.dll
 /Users/dreamworksfactory/Documents/GitHub/azure-mobile-apps-quickstarts/backend/dotnet/Quickstart/ZUMOAPPNAMEService/bin/es/System.Spatial.resources.dll
-/Users/dreamworksfactory/Documents/GitHub/azure-mobile-apps-quickstarts/backend/dotnet/Quickstart/ZUMOAPPNAMEService/obj/Debug/ZUMOAPPNAMEService.csprojAssemblyReference.cache
 /Users/dreamworksfactory/Documents/GitHub/azure-mobile-apps-quickstarts/backend/dotnet/Quickstart/ZUMOAPPNAMEService/obj/Debug/ZUMOAPPNAMEService.csproj.CoreCompileInputs.cache
 /Users/dreamworksfactory/Documents/GitHub/azure-mobile-apps-quickstarts/backend/dotnet/Quickstart/ZUMOAPPNAMEService/obj/Debug/ZUMOAPPNAMEService.csproj.CopyComplete
 /Users/dreamworksfactory/Documents/GitHub/azure-mobile-apps-quickstarts/backend/dotnet/Quickstart/ZUMOAPPNAMEService/obj/Debug/ZUMOAPPNAMEService.dll
 /Users/dreamworksfactory/Documents/GitHub/azure-mobile-apps-quickstarts/backend/dotnet/Quickstart/ZUMOAPPNAMEService/obj/Debug/ZUMOAPPNAMEService.pdb
+/Users/dreamworksfactory/Documents/GitHub/azure-mobile-apps-quickstarts/backend/dotnet/Quickstart/ZUMOAPPNAMEService/obj/Debug/ZUMOAPPNAMEService.csprojAssemblyReference.cache
